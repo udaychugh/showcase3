@@ -1,0 +1,18 @@
+#F5DE0D // yellow
+#19D95E // green
+#E81A30 // red
+
+logo 2 color theme
+
+#ffba00 // primary yellow
+#000000 // main black
+#241a00 // less black
+#483500 // light black
+#6d4f00 // yellowish black
+
+
+
+old color 
+#3d60f4
+
+
